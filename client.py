@@ -1,5 +1,6 @@
 # client.py
 
+import protocol
 
 class Client():
 
